@@ -16,4 +16,5 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_WEB_DEMO1_14AAE }}
           channelId: live
+          expires: 1h
           projectId: web-demo1-14aae
