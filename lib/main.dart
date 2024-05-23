@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'KornSixZac',
+              'Auto deploy 1',
             ),
             Text(
               '$_counter',
